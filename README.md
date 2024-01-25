@@ -7,5 +7,5 @@ This program generates a stereo WAV file. Connect the audio output to the X/Y in
 Text is rendered with FreeType to a polygon outline. You can change the text directly in the source file.
 See the README in the `fonts` directory. You need to put the TTF font file there.
 
-Video (links to YouTube):
+Video (links to YouTube):<br>
 [![New Year animation on oscilloscope.](https://img.youtube.com/vi/rPCRBjYOwQc/0.jpg)](https://www.youtube.com/watch?v=rPCRBjYOwQc)
